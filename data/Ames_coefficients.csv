@@ -1,0 +1,30 @@
+Feature,coef,Neighborhood
+foundations,13600,
+central_air,12600,
+garage_index,7551.183,
+cond_norm,11000,
+cond_pos,45700,
+LotFrontage,115.1991,
+Year Built,19.678,
+BsmtFin SF 1,28.5555,
+SF,56.7057,
+outdoorSF,35.3208,
+Neighborhood_Blueste,-33500,Blueste
+Neighborhood_BrDale,-48100,BrDale
+Neighborhood_BrkSide,-36000,BrkSide
+Neighborhood_CollgCr,-18500,CollgCr
+Neighborhood_Edwards,-47000,Edwards
+Neighborhood_Gilbert,-27800,Gilbert
+Neighborhood_IDOTRR,-49200,IDOTRR
+Neighborhood_MeadowV,-62700,MeadowV
+Neighborhood_Mitchel,-38400,Mitchel
+Neighborhood_NAmes,-37000,NAmes
+Neighborhood_NPkVill,-37600,NPkVill
+Neighborhood_NWAmes,-33300,NWAmes
+Neighborhood_NoRidge,19200,NoRidge
+Neighborhood_NridgHt,54800,NridgHt
+Neighborhood_OldTown,-46300,OldTown
+Neighborhood_SWISU,-41200,SWISU
+Neighborhood_Sawyer,-36600,Sawyer
+Neighborhood_SawyerW,-31200,SawyerW
+Neighborhood_StoneBr,68100,StoneBr
